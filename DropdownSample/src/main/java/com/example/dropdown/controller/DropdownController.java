@@ -14,7 +14,7 @@ public class DropdownController {
 	
 	@GetMapping("/")
 	public String initialize() {
-		
+	//test
 		return "calendar.scala";
 	}
 	
